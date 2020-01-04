@@ -13,4 +13,5 @@ func main() {
 	x := 2
 	y := 5
 	fmt.Println("suma", x+y)
+	fmt.Printf("x is of type %T\n", x)
 }
