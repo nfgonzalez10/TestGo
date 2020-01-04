@@ -10,4 +10,7 @@ func split(sum int) (x, y int) {
 
 func main() {
 	fmt.Println(split(17))
+	x := 2
+	y := 5
+	fmt.Println("suma", x+y)
 }
